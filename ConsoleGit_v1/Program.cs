@@ -11,6 +11,7 @@ namespace ConsoleGit_v1
         static void Main( string [ ] args )
         {
             System.Console.WriteLine( "Hello Big World !" );
+            System.Console.ReadLine( );
         }
     }
 }
